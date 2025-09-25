@@ -1,0 +1,5 @@
+{
+  "name": "CricBot - Your AI Cricket Companion",
+  "description": "An interactive chatbot powered by Gemini, designed to answer all your questions about cricket, from player stats and match history to rules and latest news.",
+  "requestFramePermissions": []
+}
